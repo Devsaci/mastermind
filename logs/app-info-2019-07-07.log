@@ -1,0 +1,107 @@
+[INFO ] 2019-07-07 18:26:55.910 [main] Main - démarage de mastermind
+[INFO ] 2019-07-07 18:26:55.951 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 
+[INFO ] 2019-07-07 19:13:42.232 [main] Main - démarage de mastermind
+[INFO ] 2019-07-07 19:13:42.240 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 
+[INFO ] 2019-07-07 19:14:49.376 [main] Main - démarage de mastermind
+[INFO ] 2019-07-07 19:14:49.385 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 
+[INFO ] 2019-07-07 19:18:37.645 [main] Main - démarage de mastermind
+[INFO ] 2019-07-07 19:18:37.656 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 
+[INFO ] 2019-07-07 19:18:54.017 [main] Main - démarage de mastermind
+[INFO ] 2019-07-07 19:18:54.028 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 
+[INFO ] 2019-07-07 19:26:50.368 [main] Main - démarage de mastermind
+[INFO ] 2019-07-07 19:26:50.379 [main] StartGame - Taille Combinaison 2
+[INFO ] 2019-07-07 19:26:50.380 [main] StartGame - Nombres d'Essais 1
+[INFO ] 2019-07-07 19:26:50.381 [main] StartGame - modeDeveloppeur 1
+[INFO ] 2019-07-07 19:26:50.381 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 
+[INFO ] 2019-07-07 19:27:28.001 [main] StartGame - 
+ 1 - Game_Mode_Challenger...........START
+[INFO ] 2019-07-07 19:27:28.002 [main] GameModeChallenger - ____________Ordinateur donne Combinaison___________________
+[INFO ] 2019-07-07 19:27:28.004 [main] GameModeChallenger - _______________Joueur donne Combinaison_______________________
+[INFO ] 2019-07-07 19:30:30.360 [main] Main - démarage de mastermind
+[INFO ] 2019-07-07 19:30:30.370 [main] StartGame - Taille Combinaison 2
+[INFO ] 2019-07-07 19:30:30.371 [main] StartGame - Nombres d'Essais 1
+[INFO ] 2019-07-07 19:30:30.371 [main] StartGame - modeDeveloppeur 1
+[INFO ] 2019-07-07 19:30:30.371 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 
+[INFO ] 2019-07-07 19:33:02.326 [main] Main - démarage de mastermind
+[INFO ] 2019-07-07 19:33:02.339 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 
+[INFO ] 2019-07-07 19:35:49.931 [main] Main - démarage de mastermind
+[INFO ] 2019-07-07 19:35:49.942 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 
+[INFO ] 2019-07-07 19:38:22.163 [main] StartGame - 
+ 1 - Game_Mode_Challenger...........START
+[INFO ] 2019-07-07 19:54:15.774 [main] DriverTest - démarage de mastermind
+[INFO ] 2019-07-07 19:54:15.783 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 
+[INFO ] 2019-07-07 19:54:21.579 [main] StartGame - 
+ 1 - Game_Mode_Challenger...........START
+[INFO ] 2019-07-07 20:01:49.149 [main] DriverTest - démarage de mastermind
+[INFO ] 2019-07-07 20:03:42.689 [main] Main - démarage de mastermind
+[INFO ] 2019-07-07 20:03:42.710 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 
+[INFO ] 2019-07-07 20:06:34.420 [main] Main - démarage de mastermind
+[INFO ] 2019-07-07 20:06:34.432 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 
+[INFO ] 2019-07-07 20:06:42.393 [main] Main - démarage de mastermind
+[INFO ] 2019-07-07 20:08:01.573 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 
+[INFO ] 2019-07-07 20:09:55.497 [main] StartGame - 
+Voulez-vous recommencer (oui = Touche CLAVIER / non = 0)  : 
+[INFO ] 2019-07-07 20:09:58.041 [main] Main - démarage de mastermind
+[INFO ] 2019-07-07 21:34:03.536 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 
+[INFO ] 2019-07-07 21:34:11.486 [main] Main - démarage de mastermind
+[INFO ] 2019-07-07 21:34:11.495 [main] StartGame - 
+.................Choice Game :.................
+ 1 - Game_Mode_Challenger
+ 2 - Game_Mode_Defenseur
+ 3 - Game_Mode_Duel 

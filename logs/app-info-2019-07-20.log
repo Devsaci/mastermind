@@ -1,0 +1,46 @@
+[INFO ] 2019-07-20 10:27:54.797 [main] Main - démarage de mastermind
+[ERROR] 2019-07-20 10:27:54.856 [main] StartGame - 
+Error Message Logged !!! Entrez une valeur de 1 à 3
+[ERROR] 2019-07-20 10:29:00.872 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[INFO ] 2019-07-20 10:29:20.007 [main] Main - démarage de mastermind
+[ERROR] 2019-07-20 10:29:20.018 [main] StartGame - 
+Error Message Logged !!! Entrez une valeur de 1 à 3
+[ERROR] 2019-07-20 10:30:06.469 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[INFO ] 2019-07-20 10:32:33.841 [main] Main - démarage de mastermind
+[ERROR] 2019-07-20 10:32:33.850 [main] StartGame - 
+Error Message Logged !!! Entrez une valeur de 1 à 3
+[ERROR] 2019-07-20 10:32:43.051 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[ERROR] 2019-07-20 10:35:10.965 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[ERROR] 2019-07-20 10:38:22.286 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[ERROR] 2019-07-20 10:38:45.398 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[ERROR] 2019-07-20 10:39:03.988 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[ERROR] 2019-07-20 10:39:15.388 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[ERROR] 2019-07-20 10:39:23.837 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[ERROR] 2019-07-20 10:39:33.573 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[INFO ] 2019-07-20 10:43:17.079 [main] Main - démarage de mastermind
+[ERROR] 2019-07-20 10:43:17.091 [main] StartGame - 
+Error Message Logged !!! Entrez une valeur de 1 à 3
+[ERROR] 2019-07-20 10:43:36.678 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[ERROR] 2019-07-20 10:43:46.041 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[ERROR] 2019-07-20 10:43:56.610 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[INFO ] 2019-07-20 10:49:58.487 [main] DriverTest - démarage de mastermind
+[INFO ] 2019-07-20 10:50:38.509 [main] DriverTest - démarage de mastermind
+[INFO ] 2019-07-20 10:51:27.445 [main] DriverTest - démarage de mastermind
+[INFO ] 2019-07-20 10:51:41.256 [main] DriverTest - démarage de mastermind
+[INFO ] 2019-07-20 10:52:13.929 [main] DriverTest - démarage de mastermind
+[ERROR] 2019-07-20 10:52:25.132 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[INFO ] 2019-07-20 12:08:24.997 [main] DriverTest - démarage de mastermind

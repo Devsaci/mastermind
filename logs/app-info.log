@@ -1,0 +1,9 @@
+[INFO ] 2019-07-21 17:13:33.763 [main] Main - démarage de mastermind
+[ERROR] 2019-07-21 17:13:33.804 [main] StartGame - 
+Error Message Logged !!! Entrez une valeur de 1 à 3
+[ERROR] 2019-07-21 17:14:03.078 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[ERROR] 2019-07-21 17:14:07.367 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
+[ERROR] 2019-07-21 17:14:16.944 [main] CombinaisonJoueur - 
+Error Message Logged !!! Entrez une valeur de 0 à 9
