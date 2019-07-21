@@ -55,26 +55,35 @@ public class CombinaisonOrdinateur extends Combinaison {
     }
 
     public String generateNewCombinaison (String result , CombinaisonOrdinateur c) {
-         String[] nbrescore = result.split("");
-        String generateNewCombinaison = null;
+        String[] nbrescore = result.split("");
+        this.nbre = "";
         for (int i = 0; i < taille; i++) {
             Random rd = new Random();
 
 
             if (nbrescore[i].equals("+")) {
-               //String unChiffre = String.valueOf(rd.nextInt(( (9) - c.getNbre().charAt(i))+1 ) + c.getNbre().charAt(i));
-                String unChiffre = String.valueOf(rd.nextInt(( (c.getNbre().charAt(i)+3) - c.getNbre().charAt(i))+1 ) + c.getNbre().charAt(i));
-                generateNewCombinaison = this.nbre + unChiffre;
+                String unChiffre = String.valueOf(getRandomNumberInRange(Character.getNumericValue(c.getNbre().charAt(i)) + 1, 9));
+                this.nbre = this.nbre + unChiffre;
             } else if (nbrescore[i].equals("-")) {
-               // String unChiffre = String.valueOf(rd.nextInt((c.getNbre().charAt(i) - 0)+1)+0);
-                String unChiffre = String.valueOf(rd.nextInt((c.getNbre().charAt(i) - 1)+1)+1);
-                generateNewCombinaison = this.nbre + unChiffre;
+                String unChiffre = String.valueOf(getRandomNumberInRange(1, Character.getNumericValue(c.getNbre().charAt(i)) - 1));
+                this.nbre = this.nbre + unChiffre;
             }
             else if (nbrescore[i].equals("=")){
-                generateNewCombinaison = this.nbre;
+                this.nbre = this.nbre + c.getNbre().charAt(i);
             }
         }
-        return generateNewCombinaison;
+        return this.nbre;
     }
+
+    private static int getRandomNumberInRange(int min, int max) {
+
+        if (min > max) {
+            throw new IllegalArgumentException("max must be greater than min");
+        }
+
+        Random r = new Random();
+        return r.nextInt((max - min) + 1) + min;
+    }
+
 
 }

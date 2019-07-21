@@ -120,21 +120,25 @@ public class GameModeDefenseur {
         cE.display();
         boolean gagner = false;
 
-
+        String resultat = "";
+        CombinaisonOrdinateur combinaisonOrdinateur = null;
         do {
 
             System.out.println("\n_____________Ordinateur donne Combinaison_______________________");
-            CombinaisonOrdinateur c = new CombinaisonOrdinateur(taille);
-            c.generate(0, 9);
+
             if (tours == 0) {
-                c.generate(0, 9);
+                combinaisonOrdinateur = new CombinaisonOrdinateur(taille);
+                combinaisonOrdinateur.generate(0, 9);
             } else {
-                c.generateNewCombinaison(comparetModeDefenseur(cE, c), c);
+                CombinaisonOrdinateur newCombinaison = new CombinaisonOrdinateur(taille);
+                newCombinaison.generateNewCombinaison(resultat, combinaisonOrdinateur);
+                combinaisonOrdinateur = newCombinaison;
             }
-            c.displayAll();
-            comparetModeDefenseur(cE, c);
-            System.out.println("Score                            " + comparetModeDefenseur(cE, c));
-            String[] nbrescore = comparetModeDefenseur(cE, c).split("");
+            combinaisonOrdinateur.displayAll();
+            resultat = comparetModeDefenseur(cE, combinaisonOrdinateur);
+            System.out.println("Score                            " + resultat);
+
+            String [] nbrescore = resultat.split("");
             gagner = true;
             for (int i = 0; i < taille; ++i) {
                 if (!nbrescore[i].equals("=")) {
